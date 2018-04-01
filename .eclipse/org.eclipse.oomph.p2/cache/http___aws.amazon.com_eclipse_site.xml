@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site url="https://d26s2n2rcct4v5.cloudfront.net">
+
+    <category-def name="com.amazonaws.category.management" label="AWS Core Management Tools"/>
+    <category-def name="com.amazonaws.category.development" label="AWS Developer Tools"/>
+    <category-def name="com.amazonaws.category.deployment" label="AWS Deployment Tools"/>
+    <category-def name="com.amazonaws.category.datatools" label="Optional - AWS Data Management Tools"/>
+    <category-def name="com.amazonaws.category.android" label="Optional - AWS Android Development (requires Eclipse Android Development Tools (ADT))"/>
+
+    <feature url="features/com.amazonaws.eclipse.android.sdk.feature_1.0.0.v201704181355.jar"
+              id="com.amazonaws.eclipse.android.sdk.feature" version="1.0.0.v201704181355">
+        <category name="com.amazonaws.category.android"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201605030030.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201605030030">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201608151737.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201608151737">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201610312210.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201610312210">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201612010004.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201612010004">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201704182056.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201704182056">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.cloudformation.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.cloudformation.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201704182112.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201704182112">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201704191745.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201704191745">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codecommit.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.codecommit.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201608151735.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201608151735">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201608171752.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201608171752">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201704182056.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201704182056">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codedeploy.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.codedeploy.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201704182116.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201704182116">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201704191748.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201704191748">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.codestar.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.codestar.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.development"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201607061456.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201607061456">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201608151027.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201608151027">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201608231751.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201608231751">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201608241536.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201608241536">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201610241519.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201610241519">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201610311501.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201610311501">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201611301311.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201611301311">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201702201547.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201702201547">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201703061745.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201703061745">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201703202208.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201703202208">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201703211023.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201703211023">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201704181351.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201704181351">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201704240512.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201704240512">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201705060030.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201705060030">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201705092150.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201705092150">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201705172155.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201705172155">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201705232324.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201705232324">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201706022012.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201706022012">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201706150006.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201706150006">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201707121824.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201707121824">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201708041710.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201708041710">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201708161930.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201708161930">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201709081818.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201709081818">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201709261909.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201709261909">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.core.feature_2.3.1.v201709262229.jar"
+              id="com.amazonaws.eclipse.core.feature" version="2.3.1.v201709262229">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201603240955.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201603240955">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201605200943.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201605200943">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201607061503.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201607061503">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201609200937.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201609200937">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201703070954.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201703070954">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201703202230.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201703202230">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201703211027.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201703211027">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201704181355.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201704181355">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.elasticbeanstalk.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.elasticbeanstalk.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201606062124.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201606062124">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201606072012.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201606072012">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201606151826.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201606151826">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201608152255.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201608152255">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201609021904.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201609021904">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201609022222.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201609022222">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201612010009.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201612010009">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201702210032.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201702210032">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201704182105.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201704182105">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.lambda.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.lambda.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201608151736.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201608151736">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201704182057.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201704182057">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.opsworks.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.opsworks.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.deployment"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201609271827.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201609271827">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201704182100.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201704182100">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.rds.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.rds.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201704240512.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201704240512">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201705060030.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201705060030">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201705092150.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201705092150">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201705172155.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201705172155">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201705232324.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201705232324">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201706022012.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201706022012">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201706150006.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201706150006">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201707121824.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201707121824">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201708041710.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201708041710">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201708161930.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201708161930">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201709081818.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201709081818">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201709261909.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201709261909">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpledb.feature_1.0.0.v201709262229.jar"
+              id="com.amazonaws.eclipse.simpledb.feature" version="1.0.0.v201709262229">
+        <category name="com.amazonaws.category.datatools"/>
+    </feature>
+
+    <feature url="features/com.amazonaws.eclipse.simpleworkflow.feature_1.0.0.v201202211329.jar"
+              id="com.amazonaws.eclipse.simpleworkflow.feature" version="1.0.0.v201202211329">
+        <category name="com.amazonaws.category.management"/>
+    </feature>
+
+    <archive path="plugins/com.amazonaws.eclipse.android.sdk_1.0.0.v201704181355.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.android.sdk_1.0.0.v201704181355.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201605030030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201605030030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201608151737.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201608151737.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201610312210.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201610312210.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201612010004.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201612010004.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201704182056.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201704182056.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.cloudformation_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704182112.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704182112.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704191745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704191745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codecommit_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201608151735.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201608151735.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201608171752.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201608171752.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201704182056.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201704182056.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codedeploy_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704182116.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704182116.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704191748.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704191748.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.codestar_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201607061456.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201607061456.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201608151027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201608151027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201608231751.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201608231751.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201608241536.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201608241536.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201610241519.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201610241519.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201610311501.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201610311501.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201611301311.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201611301311.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201702201547.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201702201547.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201703061745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201703061745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201703202208.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201703202208.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201703211023.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201703211023.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201704181351.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201704181351.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.core_2.3.1.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.core_2.3.1.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201607061456.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201607061456.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608151027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608151027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608231751.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608231751.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608241536.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201608241536.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201610241519.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201610241519.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201610311501.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201610311501.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201611301311.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201611301311.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201702201547.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201702201547.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703061745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703061745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703202208.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703202208.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703211023.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201703211023.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201704181351.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201704181351.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.dynamodb_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201607061456.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201607061456.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608151027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608151027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608231751.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608231751.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608241536.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201608241536.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201610241519.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201610241519.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201610311501.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201610311501.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201611301311.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201611301311.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201702201547.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201702201547.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703061745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703061745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703202208.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703202208.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703211023.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201703211023.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201704181351.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201704181351.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.ec2_1.1.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201603240955.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201603240955.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201605200943.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201605200943.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201607061503.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201607061503.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201609200937.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201609200937.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703070954.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703070954.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703202230.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703202230.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703211027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201703211027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201704181355.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201704181355.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.elasticbeanstalk_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201607061456.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201607061456.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608151027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608151027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608231751.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608231751.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608241536.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201608241536.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201610241519.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201610241519.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201610311501.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201610311501.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201611301311.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201611301311.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201702201547.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201702201547.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703061745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703061745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703202208.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703202208.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703211023.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201703211023.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201704181351.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201704181351.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.identitymanagement_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.javasdk_1.11.130.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.javasdk_1.11.130.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606062124.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606062124.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606072012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606072012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606151826.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201606151826.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201608152255.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201608152255.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201609021904.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201609021904.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201609022222.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201609022222.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201612010009.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201612010009.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201702210032.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201702210032.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201704182105.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201704182105.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.lambda_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201608151736.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201608151736.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201704182057.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201704182057.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.opsworks_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201609271827.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201609271827.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201704182100.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201704182100.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201704240512.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201705060030.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201705060030.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201705092150.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201705092150.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201705172155.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201705172155.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201705232324.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201705232324.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201706022012.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201706022012.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201706150006.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201706150006.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201707121824.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201707121824.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201708041710.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201708041710.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201708161930.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201708161930.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201709081818.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201709081818.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201709261909.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201709261909.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.rds_1.0.0.v201709262229.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.rds_1.0.0.v201709262229.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201607061456.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201607061456.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608151027.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608151027.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608231751.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608231751.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608241536.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201608241536.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201610241519.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201610241519.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201610311501.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201610311501.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201611301311.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201611301311.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201702201547.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201702201547.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703061745.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703061745.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703202208.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703202208.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703211023.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201703211023.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201704181351.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201704181351.jar"/>
+
+    <archive path="plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201704240512.jar"
+              url="https://d26s2n2rcct4v5.cloudfront.net/plugins/com.amazonaws.eclipse.sdk.ui_2.1.0.v201704240512.jar"/>
+
+</site>

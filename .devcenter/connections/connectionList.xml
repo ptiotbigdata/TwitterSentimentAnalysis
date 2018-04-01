@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<connectionList>
+    <connections>
+        <name>connection1</name>
+        <hosts>localhost</hosts>
+        <port>9042</port>
+        <compression>NONE</compression>
+        <storePassword>false</storePassword>
+        <requiresCredentials>true</requiresCredentials>
+        <login>pradeep</login>
+        <encryptedPassword>MRMIFQQEIVBVUg==</encryptedPassword>
+        <ssl>false</ssl>
+        <truststorePath></truststorePath>
+        <encryptedTruststorePassword></encryptedTruststorePassword>
+        <requiresClientAuthentication>false</requiresClientAuthentication>
+        <keystorePath></keystorePath>
+        <encryptedKeystorePassword></encryptedKeystorePassword>
+    </connections>
+</connectionList>

@@ -1,0 +1,46 @@
+VirtualBox COM Server 5.1.14 r112924 win.amd64 (Jan 16 2017 16:36:58) release log
+00:00:00.022139 main     Log opened 2017-02-07T03:45:29.183295200Z
+00:00:00.022139 main     Build Type: release
+00:00:00.022139 main     OS Product: Windows 10
+00:00:00.022139 main     OS Release: 10.0.10586
+00:00:00.022139 main     OS Service Pack: 
+00:00:00.053388 main     DMI Product Name: HP Notebook
+00:00:00.053388 main     DMI Product Version: Type1ProductConfigId
+00:00:00.053388 main     Host RAM: 8112MB (7.9GB) total, 4592MB (4.4GB) available
+00:00:00.053388 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.053388 main     Process ID: 404
+00:00:00.053388 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.069014          VirtualBox: object creation starts
+00:00:00.069014          Home directory: 'C:\Users\hp\.VirtualBox'
+00:00:00.069014          Installed Drivers:
+00:00:00.069014            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.1.14.12924)
+00:00:00.069014            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.1.14.12924)
+00:00:00.069014            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.1.14.12924)
+00:00:00.069014            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.1.14.12924)
+00:00:00.069014          Getting USB descriptor failed with error 31
+00:00:00.146300          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb008). Please, report the idVendor and idProduct to virtualbox.org.
+00:00:00.177576          HostDnsMonitor: old information
+00:00:00.177576            no server entries
+00:00:00.177576            no domain set
+00:00:00.177576            no search string entries
+00:00:00.177576          HostDnsMonitor: new information
+00:00:00.177576            server 1: 8.8.8.8
+00:00:00.177576            server 2: 4.2.2.2
+00:00:00.177576            no domain set
+00:00:00.177576            no search string entries
+00:00:00.177576          HostDnsMonitorProxy::notify
+00:00:00.253127          VD: VDInit finished
+00:00:00.253127          VirtualBox: object created
+00:01:33.250470 USBPROXY Getting USB descriptor failed with error 31
+00:07:38.176128          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:07:48.786070          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:07:49.311366          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:08:17.301505          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Could not get the storage format of the medium 'D:\EdurekaVM\Edureka-Spark-VM.ova' (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:09:02.263421          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:10:20.494254          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:10:27.364646          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={edba9d10-45d8-b440-1712-46ac0c9bc4c5} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:10:27.688781          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:14:52.592525 main     VirtualBox: object deletion starts
+00:14:52.592525 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'C:\Users\hp\VirtualBox VMs\Ubuntu_14\Ubuntu_14.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:14:52.597266 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={0169423f-46b4-cde9-91af-1e9d5b6cd945} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:14:52.597266 main     VirtualBox: object deleted
